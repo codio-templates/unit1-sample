@@ -6,6 +6,11 @@
    {
     "code": 0,
     "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483968869784
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
     "timestamp": 1483962940718
    },
    {

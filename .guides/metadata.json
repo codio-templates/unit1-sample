@@ -3,7 +3,13 @@
   {
    "id": "040e4762-57f9-3ec6-ab26-8d124e4bd2bf",
    "title": "UNIT 1",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/UNIT-1-040e.md",
@@ -14,7 +20,13 @@
   {
    "id": "7bff6b0a-6205-625c-cf36-d0561df0bc06",
    "title": "MCQ Question",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/MCQ-Question-7bff.md",
@@ -25,7 +37,14 @@
   {
    "id": "f944491a-023f-927d-f803-09b96e8b1de7",
    "title": "Code test",
-   "files": [],
+   "files": [
+    {
+     "path": "unit1-test.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Code-test-f944.md",
